@@ -1,0 +1,13 @@
+
+npm init
+"start": "node index.js"
+create index.js file
+run using below command
+node index.js or npm start
+automatcailly ya sara kam ho
+npm i --save-dev nodemon (only in this file)
+npm i -g nodemon (globally available)
+to run node mon ==> add "start": "nodemon index.js" replace above with this 
+then run below command
+npm start
+
