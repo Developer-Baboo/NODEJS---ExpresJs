@@ -48,3 +48,10 @@ const timer = setInterval(() => {
         clearInterval(timer);
     }
 }, 100); */
+
+
+
+/* const chalk = require('chalk');
+console.log(chalk.red("This is Baboo Kumar")); */
+
+
